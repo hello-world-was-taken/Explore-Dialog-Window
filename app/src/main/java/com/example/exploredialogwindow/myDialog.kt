@@ -1,4 +1,7 @@
 package com.example.exploredialogwindow
 
-class myDialog {
+import androidx.fragment.app.DialogFragment
+
+class myDialog : DialogFragment() {
+    
 }
